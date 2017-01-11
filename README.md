@@ -8,5 +8,5 @@ command line argument.
 To use a blueprint like this you would run the following command:
 
 ```
-ember new some-good-name-here --blueprint=https://github.com/ember-cli/app-blueprint-test.git`
+ember new some-good-name-here --blueprint=https://github.com/ember-cli/app-blueprint-test.git
 ```
