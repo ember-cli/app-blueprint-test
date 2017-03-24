@@ -1,7 +1,10 @@
 {
   "name": "app-blueprint",
   "version": "1.0.0",
-  "description": "",
+  "description": "Demo blueprint to be used with ember new -b app-blueprint-test",
+  "keywords": [
+    "ember-blueprint"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
