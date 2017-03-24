@@ -1,7 +1,7 @@
 {
-  "name": "app-blueprint",
+  "name": "ember-blueprint-demo",
   "version": "1.0.0",
-  "description": "Demo blueprint to be used with ember new -b app-blueprint-test",
+  "description": "Demo blueprint to be used with ember new -b ember-blueprint-demo",
   "keywords": [
     "ember-blueprint"
   ],
