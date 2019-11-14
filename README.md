@@ -1,3 +1,6 @@
+> :warning: Do not delete this branch. It is required for the `ember new` acceptance test!
+
+
 # app-blueprint-test
 
 This is an example repository (used by ember-cli's own test suite) 
